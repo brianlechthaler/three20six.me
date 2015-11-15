@@ -4,4 +4,4 @@ For automatic updates of the stats page (about) every minute, add the following 
 
 `*/1 * * * * /path/to/update_stats.sh > /var/www/html/stats.txt`
 
-Also, be sure to edit '/path/to/...' in both the above example and the update script to fit your needs.  It would be a good idea to `chmod +x` the script, or else it probably won't do anything.
+Also, be sure to edit '/path/to/...' in both the above example and the update script to fit your needs.  Make sure you `chmod +x` the script, or else it probably won't do anything.
