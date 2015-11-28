@@ -7,7 +7,8 @@ echo "[UPTIME:" $(uptime)"]"
 echo
 echo "[FREE DISK SPACE:" $(df -h)"]"
 echo
-echo "[FREE RAM:" $(free)"]"
+echo ‘FREE RAM:’
+free
 echo
 echo ’TEMPERATURES (IN FARENHEIT) :’
 sensors -f
