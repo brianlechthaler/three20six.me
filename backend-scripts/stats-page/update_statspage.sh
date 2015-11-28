@@ -5,10 +5,11 @@ date "+[LAST UPDATED: %Y-%m-%d %H:%M:%S]"
 echo
 echo "[UPTIME:" $(uptime)"]"
 echo
-echo "[FREE DISK SPACE:" $(df -h)"]"
+echo "FREE DISK SPACE:"
+df -h
 echo
-echo ‘FREE RAM:’
+echo "FREE RAM:"
 free
 echo
-echo ’TEMPERATURES (IN FARENHEIT) :’
+echo "TEMPERATURES (IN FARENHEIT) :"
 sensors -f
