@@ -1,17 +1,13 @@
 cat /path/to/stats-banner.txt 
 echo
 echo
-echo 'Last Updated:'
-date
+date "+[LAST UPDATED: %Y-%m-%d %H:%M:%S]"
 echo
-echo 'Uptime:'
-uptime
+echo "[UPTIME:" $(uptime)"]"
 echo
-echo 'Free RAM:'
-free
+echo "[FREE DISK SPACE:" $(df -h)"]"
 echo
-echo 'Temperature (In Fahrenheit)'
+echo "[FREE RAM:" $(free)"]"
+echo
+echo ’TEMPERATURES (IN FARENHEIT) :’
 sensors -f
-echo
-echo 'Free Disk Space (approximate)'
-df -h
