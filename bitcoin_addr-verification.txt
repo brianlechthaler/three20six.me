@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+ 
+I, Brian Lechthaler, accept Bitcoin at the following address:
+1Brian7NAq9pQrtLrgXGoxywKDv3SmoDUK
+-----BEGIN PGP SIGNATURE-----
+Comment: GPGTools - https://gpgtools.org
+ 
+iQIcBAEBCgAGBQJWmcTHAAoJEPAl0up4yT+ujgIQAI9A813597I4c7F92wtb3ed9
+c3L4q0xmYrw4EwkkfQVJertEk1xb45AAlVu3HPQzP/xIfW3w1dLiz19cu1NL49s5
+tvNSK6FCnMdiS8IXxE6yuiqt+9ccm7s07C09eEjO/QTlR89djWCiZM8T3f22Cmny
+Uy8aQuNB8m3E0J6dGxbT1kiYgjS5NEStW+sD/80MogGwZZytkU4CXPYl2WRy7lZN
+4geGgbbg0DvGBrz3UeO0wsUjndQ8OKpcjLz567L8snxjpyiubQnUaks7k2P207HA
+ab5h6C8KYi25OFSFZcyIX7uzZFOTCss6A4d7kpY+Ec6gaXOG2i2cLTy2jeySHWrP
+XCjrZmLz+K9sDm6QyvJLduVEfVJYa1NosWj5AYo8hXgjcItvjwpZkp6ruXHyYKhj
+VtQ1DWM7vqNllsksc0aCiInJJ/DeAJvMgvWxe6iq1FJieQCiFLJ1ez/pc5/7ocNN
+lQbi1mEsFV2nnPcsupThl0aRRDtgH/xmUX8pIv/rrGeTaDTdBVzLrKx5GVretJWP
+EBDJ+8wCP4UDTbZ/a66v+3PcEbFr1aolZvAroUAdJ7cHMSiasBIAke18Vxc9NWhe
+fy1gYspAPQHqe4q0kb5U3T1q/wpl2xS1qhSMAnsOaseTbq45wa8pDJXPNeAPaKN8
+ONOFNenOwFg2Pj0Z/Xfs
+=iuwX
+-----END PGP SIGNATURE-----
